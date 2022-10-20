@@ -13,3 +13,7 @@
 ### menjalankan idle
 #### membuat file baru dengan nama latihan3.py
 #### menggunkan fungsi input untuk mengambil nilai variabel
+
+![gambar](gambar3.jpeg)
+
+![gambar](gambar4.jpeg)
